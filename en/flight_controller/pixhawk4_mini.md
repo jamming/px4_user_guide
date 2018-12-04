@@ -52,7 +52,7 @@ Available soon.
 
 ## Pinouts
 
-Download *Pixhawk 4 Mini* pinouts from [here](https://github.com/PX4/px4_user_guide/raw/master/assets/flight_controller/pixhawk4mini/pixhawk4mini_pinouts.pdf).
+Download *Pixhawk 4 Mini* pinouts from [here](http://www.holybro.com/manual/Pixhawk4Mini_Pinouts.pdf).
 
 ## Dimensions
 
